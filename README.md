@@ -75,4 +75,4 @@ We welcome contributions from the taco-loving community! Here's how you can get 
 
 ## Contact
 
-If you have any questions, suggestions, or just want to chat about tacos, feel free to reach out to us at [your-email@example.com]. We're excited to hear from you and make Taco Street even more delicious!
+If you have any questions, suggestions, or just want to chat about tacos, feel free to reach out to us at therahman14@gmail.com. We're excited to hear from you and make Taco Street even more delicious!
