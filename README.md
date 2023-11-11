@@ -39,7 +39,7 @@ Before getting started, ensure that you meet the following requirements:
 3. Start the application:
 
    ```bash
-   npm start
+   node index.js
    ```
 
 4. Open your web browser and navigate to `http://localhost:3000` to access the website.
